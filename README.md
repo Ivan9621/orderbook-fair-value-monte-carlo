@@ -335,7 +335,7 @@ fig = plot_strategy_performance(equity_curve, save_path='figures/backtest.png')
 
 ### Monte Carlo Simulation Paths
 
-![image alt](https://github.com/Ivan9621/orderbook-fair-value-monte-carlo/blob/0e8551c83d84de29220bbe87d92fb3b97988ca32/monte_carlo_example.png)
+![image alt](https://github.com/Ivan9621/orderbook-fair-value-monte-carlo/blob/66bd0134402bc107fdda6748db844bee40cce298/example_monte_carlo_paths.png)
 
 The plot shows:
 - Historical price data (cyan)
@@ -345,7 +345,7 @@ The plot shows:
 
 ### Return Distribution Analysis
 
-![image alt](https://github.com/Ivan9621/orderbook-fair-value-monte-carlo/blob/0e8551c83d84de29220bbe87d92fb3b97988ca32/return_distribution_example.png)
+![image alt](https://github.com/Ivan9621/orderbook-fair-value-monte-carlo/blob/66bd0134402bc107fdda6748db844bee40cce298/example_return_distribution.png)
 
 Statistical analysis of simulated returns:
 - Histogram with kernel density estimate
@@ -354,7 +354,7 @@ Statistical analysis of simulated returns:
 
 ### Strategy Performance
 
-![image alt](https://github.com/Ivan9621/orderbook-fair-value-monte-carlo/blob/0e8551c83d84de29220bbe87d92fb3b97988ca32/strategy_performance_example.png)
+![image alt](https://github.com/Ivan9621/orderbook-fair-value-monte-carlo/blob/66bd0134402bc107fdda6748db844bee40cce298/example_backtest_performance.png)
 
 Backtest results showing:
 - Equity curve over time
