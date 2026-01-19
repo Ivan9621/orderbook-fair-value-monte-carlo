@@ -197,15 +197,11 @@ tqdm>=4.60.0
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/orderbook-fair-value-monte-carlo.git
+git clone https://github.com/Ivan9621/orderbook-fair-value-monte-carlo.git
 cd orderbook-fair-value-monte-carlo
 
 # Install dependencies
 pip install -r requirements.txt
-
-# Install order book library (lobby)
-# Note: You'll need to have the 'lobby' order book implementation
-# See: https://github.com/your-lobby-repo
 ```
 
 ## 💻 Usage
